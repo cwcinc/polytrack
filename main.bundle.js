@@ -24952,6 +24952,7 @@
             var e;
             for (let e = 0; e < hp(this, sp, "f").length; ++e)
                 hp(this, sp, "f")[e](1 / hp(this, rp, "f"));
+            console.log(1 / hp(this, rp, "f");
             hp(this, qf, "f").stepSimulation(1 / hp(this, rp, "f"), 0, 1 / hp(this, rp, "f")),
             cp(this, np, (e = hp(this, np, "f"),
             ++e), "f");
